@@ -2,4 +2,5 @@ MY PROJECT
 
 # This project is by ingrid D
 
-This code is very important to our company 
+This code is very important to our company
+this is me 
