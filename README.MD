@@ -6,4 +6,6 @@ This code is very important to our company
 this is me
 this code will be reset to the previous commit 
 intro to branch
-created a new-feature  
+
+created a new-feature
+intro to merge.  
